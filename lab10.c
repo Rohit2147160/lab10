@@ -1,3 +1,7 @@
+//Rohit Priyadarshi
+//2147160
+//3MCA A
+
 #include <limits.h>
 #include <stdbool.h>
 #include <stdio.h>
